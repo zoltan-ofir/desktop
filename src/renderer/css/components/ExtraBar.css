@@ -5,6 +5,10 @@
     -webkit-font-smoothing: antialiased;
 }
 
+#extra-bar.dark-mode {
+    background-color: #000;
+}
+
 #extra-bar div {
     padding: 0 0.93em 0.2em;
 }
@@ -30,3 +34,4 @@ span.backIcon {
 .container-fluid button:first-child {
     padding-left: 0px;
 }
+
